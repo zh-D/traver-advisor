@@ -7,7 +7,7 @@
 
 在根目录创建一个 .env 文件
 ```javascript
-REACT_APP_GOOGLE_MAPS_API_KEY=yourkey
+REACT_APP_GOOGLE_MAPS_API_KEY=your_key
 REACT_APP_RAPIDAPI_KEY=your_key
 
 ```
